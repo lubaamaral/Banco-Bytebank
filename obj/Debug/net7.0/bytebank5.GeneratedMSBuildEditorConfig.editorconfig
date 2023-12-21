@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = bytebank5
+build_property.ProjectDir = C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\

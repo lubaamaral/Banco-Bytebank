@@ -1,0 +1,15 @@
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.csproj.AssemblyReference.cache
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.AssemblyInfoInputs.cache
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.AssemblyInfo.cs
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.csproj.CoreCompileInputs.cache
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\bin\Debug\net7.0\bytebank5.exe
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\bin\Debug\net7.0\bytebank5.deps.json
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\bin\Debug\net7.0\bytebank5.runtimeconfig.json
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\bin\Debug\net7.0\bytebank5.dll
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\bin\Debug\net7.0\bytebank5.pdb
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.dll
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\refint\bytebank5.dll
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.pdb
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\bytebank5.genruntimeconfig.cache
+C:\Users\luiza.rodrigues\OneDrive - NTT\a - Cursos Linkedin e Alura\Alura\Meus Cursos\C#\Curso 5 - Usando heranças e implementando interfaces\bytebank5\bytebank5\obj\Debug\net7.0\ref\bytebank5.dll
